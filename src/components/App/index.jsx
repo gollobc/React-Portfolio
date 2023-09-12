@@ -14,6 +14,12 @@ function App() {
 
       <h1>Cade Gollob</h1>
 
+      <div>
+        <p>
+
+        </p>
+      </div>
+      
       <footer>
         <a href='https://github.com/gollobc' target='_blank' rel="noreferrer noopener"><i className="fa-brands fa-github" ></i></a>
         <a href='https://linkedin.com/in/cadegollob' target='_blank' rel="noreferrer noopener"><i className="fa-brands fa-linkedin" ></i></a>
